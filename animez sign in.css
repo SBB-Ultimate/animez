@@ -1,0 +1,23 @@
+html {background-color: black;
+color: red;}
+button:hover {background-color: red;}
+a:hover {color: white;}
+button {display: block;
+background-color: black;
+border-color: red;
+margin-bottom: 25px;
+color: white;}
+.login {font-size: 15px;
+height: 60px;
+width: 75px;}
+.container {margin-left: 50px;
+margin-top: 50px;}
+.username ,.password {display: block;}
+.password {margin-left: 3px;
+margin-top: 5px;}
+.sign-up {display: block;
+font-size: 15px;
+height: 60px;
+width: 75px;}
+.divider {border-bottom: 2px red solid;}
+h1 {font-size: 45px;}
